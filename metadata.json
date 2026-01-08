@@ -1,0 +1,5 @@
+{
+  "name": "Ai Writing Assistant",
+  "description": "A smart writing assistant that helps you craft engaging social media posts, blogs, and captions using Gemini AI. Features tone selection, platform optimization, and history management.",
+  "requestFramePermissions": []
+}
